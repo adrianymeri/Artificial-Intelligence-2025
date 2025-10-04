@@ -1,2 +1,2 @@
-# Artificial-Intelligence-2022-2023
-Kete repository e perdorim si knowledge base per gjeneraten 2022/2023
+# Artificial-Intelligence-2025
+Kete repository e perdorim si knowledge base per gjeneraten 2025
