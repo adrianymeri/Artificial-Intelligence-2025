@@ -1,4 +1,4 @@
-# Detyra 1 - AI - 22/11/2024
+# Detyra 1 - AI - 07.11.2025 dhe 08.11.2025
 
 ## Teknikat e Painformuara të Kërkimit (Uninformed Search Techniques)
 
