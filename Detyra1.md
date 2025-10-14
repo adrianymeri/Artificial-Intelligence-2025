@@ -15,9 +15,10 @@ A është e mundur të planifikohen n = g × p lojtarë golfi në g grupe p lojt
 | Week 1  | 0,1,2,3 | 4,5,22,23 | 6,7,20,21 | 8,25,26,27 | 9,10,11,24 | 12,13,15,30 | 14,28,29,31 | 16,17,18,19 |
 
 **Kërkesat e detyrës:** 
-- Implemento Depth First Search (DFS)
-- Depth Limited Search
-- Backtracking
+- Modeloni problemin
+- Tregoni reprezentimin e problemit (cka konsiderojme variabel, domain, etj.)
+- Implemento Depth First Search (DFS) me Backtracking
+- Depth Limited Search me Backtracking
 
 ### 2. Sudoku Solver
 
@@ -25,7 +26,10 @@ A është e mundur të planifikohen n = g × p lojtarë golfi në g grupe p lojt
 Të shkruhet programi i cili e zgjidh një Sudoku. Programi duhet t’i parasheh tri nivele të Sudoku: Easy, Medium, Hard.  
 Për më shumë rreth Sudoku: [Kliko këtu](http://www.sudoku-space.com/sudoku.php)
 
-**Kërkesat e detyrës:** Implemento Breadth First Search (BFS) dhe Backtracking për zgjidhjen e problemit
+**Kërkesat e detyrës:** 
+- Modeloni problemin
+- Tregoni reprezentimin e problemit (cka konsiderojme variabel, domain, etj.)
+- Implemento Breadth First Search (BFS) me Backtracking
 
 ### 3. Latin Square
 
@@ -45,4 +49,7 @@ Duke pasur parasysh një hyrje n, ne duhet të printojmë një matricë n x n t�
 2 3 4 5 1
 ```
 
-**Kërkesat e detyrës:** Implemento Iterative Deepeing Depth First Search (IDDFS) dhe Backtracking  
+**Kërkesat e detyrës:** 
+- Modeloni problemin
+- Tregoni reprezentimin e problemit (cka konsiderojme variabel, domain, etj.)
+- Implemento Iterative Deepeing Depth First Search (IDDFS) dhe Backtracking  
