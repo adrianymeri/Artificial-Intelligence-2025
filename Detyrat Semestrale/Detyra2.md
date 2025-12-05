@@ -4,7 +4,7 @@
 
 ### 1. Blocked N-Queens Problem
 
-**Përshkrimi** https://shorturl.at/33eJo
+**Përshkrimi** [https://shorturl.at/33eJo](https://dtai.cs.kuleuven.be/events/ASP-competition/Benchmarks/BlockedQueens.shtml)
 
 **Kërkesat e detyrës:** <br/>
 ● Aplikoni A Star (A*) algoritmin për zgjidhjen e këtij problemi!<br/>
